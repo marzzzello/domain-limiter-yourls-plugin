@@ -15,7 +15,7 @@ Configuration
 -------------
 Define a list of allowed domains in the Admin Interface`
 
-You may also optionally specify a list of usernames that are exempt from this restriction.
+You must also specify a list of usernames that are exempt from this restriction and are the only users allowed to edit the list of allowed domains in the Admin Interface.
 `domainlimit_exempt_users = array( 'bobadmin' );`
 
 License
