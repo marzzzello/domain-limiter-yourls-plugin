@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Domain Limiter
-Plugin URI: can you make a bitbucket location for this?
+Plugin URI: https://bitbucket.org/quantumwebco/domain-limiter-yourls-plugin
 Description: Only allow URLs from admin-specified domains, with an admin panel. Based on the Domain Limiter plugin by nicwaller.
 Version: 1.1.0
 Author: quantumweb.co
